@@ -1,0 +1,280 @@
+Uri: https://cdn.prod.website-files.com/674b90dd8dfb734293c8e163/674b914c3fdbcae503b79bd1_planet3-vector.svg
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\674b90dd8dfb734293c8e163\674b914c3fdbcae503b79bd1_planet3-vector.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/674b90dd8dfb734293c8e163/674b914c5b4c098725bf006c_planet2-vector.svg
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\674b90dd8dfb734293c8e163\674b914c5b4c098725bf006c_planet2-vector.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/674b90dd8dfb734293c8e163/674b914c89ef36fc13ad318f_planet1-vector.svg
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\674b90dd8dfb734293c8e163\674b914c89ef36fc13ad318f_planet1-vector.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/674b90dd8dfb734293c8e163/674b914ce6116045f09cdf66_Touchpoint.svg
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\674b90dd8dfb734293c8e163\674b914ce6116045f09cdf66_Touchpoint.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
+Uri: https://www.theastralfrontier.com/
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\index.htm
+Content Type: text/html
+
+Uri: https://www.theastralfrontier.com/assets/avif/footer_image_1-CF_2iwjm.avif
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\avif\footer_image_1-CF_2iwjm.avif
+Content Type: image/avif
+
+Uri: https://www.theastralfrontier.com/assets/avif/footer_image_1footer_image-CIvw4K8e.avif
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\avif\footer_image_1footer_image-CIvw4K8e.avif
+Content Type: image/avif
+
+Uri: https://www.theastralfrontier.com/assets/css/global-blqMDuEN.css
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\css\global-blqMDuEN.css
+Content Type: text/css
+
+Uri: https://www.theastralfrontier.com/assets/css/main-Cq8gK7AS.css
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\css\main-Cq8gK7AS.css
+Content Type: text/css
+
+Uri: https://www.theastralfrontier.com/assets/js/global/core/global-core-Cx4mqg2V.js
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\js\global\core\global-core-Cx4mqg2V.js
+Content Type: application/javascript
+
+Uri: https://www.theastralfrontier.com/assets/js/vendor/gsap/vendor-gsap-core-D4-kPFdx.js
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\js\vendor\gsap\vendor-gsap-core-D4-kPFdx.js
+Content Type: application/javascript
+
+Uri: https://www.theastralfrontier.com/assets/js/vendor/gsap/vendor-gsap-draw-VPuGL5bZ.js
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\js\vendor\gsap\vendor-gsap-draw-VPuGL5bZ.js
+Content Type: application/javascript
+
+Uri: https://www.theastralfrontier.com/assets/js/vendor/gsap/vendor-gsap-split-vj7Di18r.js
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\js\vendor\gsap\vendor-gsap-split-vj7Di18r.js
+Content Type: application/javascript
+
+Uri: https://www.theastralfrontier.com/assets/js/vendor/lottie/vendor-lottie-Bk8Kgd4s.js
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\js\vendor\lottie\vendor-lottie-Bk8Kgd4s.js
+Content Type: application/javascript
+
+Uri: https://www.theastralfrontier.com/assets/main-BbevGBuR.js
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\main-BbevGBuR.js
+Content Type: application/javascript
+
+Uri: https://www.theastralfrontier.com/assets/svg/grid-bottom-kPCOOsBl.svg
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\svg\grid-bottom-kPCOOsBl.svg
+Content Type: image/svg+xml
+
+Uri: https://www.theastralfrontier.com/assets/svg/hero-vector-shape-C5ycXRSw.svg
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\svg\hero-vector-shape-C5ycXRSw.svg
+Content Type: image/svg+xml
+
+Uri: https://www.theastralfrontier.com/assets/svg/home-logo-CMlKYlti.svg
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\svg\home-logo-CMlKYlti.svg
+Content Type: image/svg+xml
+
+Uri: https://www.theastralfrontier.com/assets/svg/planet-line-btm-DGE9uSlP.svg
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\svg\planet-line-btm-DGE9uSlP.svg
+Content Type: image/svg+xml
+
+Uri: https://www.theastralfrontier.com/assets/svg/planet-line-left-bVy4M4lu.svg
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\svg\planet-line-left-bVy4M4lu.svg
+Content Type: image/svg+xml
+
+Uri: https://www.theastralfrontier.com/assets/svg/planet-line-right-DhXBb5UU.svg
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\svg\planet-line-right-DhXBb5UU.svg
+Content Type: image/svg+xml
+
+Uri: https://www.theastralfrontier.com/assets/webp/3d-element-D0R4kAP6.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\3d-element-D0R4kAP6.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/4-lhs_expi-D3LtPjk3.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\4-lhs_expi-D3LtPjk3.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/4-lhs_resilience-EnGV6EaT.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\4-lhs_resilience-EnGV6EaT.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/4-lhs_surface-q30lzOpL.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\4-lhs_surface-q30lzOpL.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/bg-extra-GEmB8zd0.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\bg-extra-GEmB8zd0.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/bg-extra-p-1080-u-mB3NZQ.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\bg-extra-p-1080-u-mB3NZQ.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/bg-extra-p-1600-0Uf-nTPI.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\bg-extra-p-1600-0Uf-nTPI.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Footer-CSUFmKiV.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Footer-CSUFmKiV.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Footer-p-1080-DYxvx4OO.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Footer-p-1080-DYxvx4OO.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Footer-p-1600-CCPSDO_8.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Footer-p-1600-CCPSDO_8.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Galaxy-Ba9mNMTm.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Galaxy-Ba9mNMTm.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Galaxy-p-1080-wV0lBLOU.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Galaxy-p-1080-wV0lBLOU.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Galaxy-p-1600-DTNUCO8F.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Galaxy-p-1600-DTNUCO8F.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Hero-CLmz8Hzx.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Hero-CLmz8Hzx.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Hero-p-1080-_7TshnJS.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Hero-p-1080-_7TshnJS.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Hero-p-1600-DdDWr-1A.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Hero-p-1600-DdDWr-1A.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Planets-LJqiRNnB.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Planets-LJqiRNnB.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Planets-p-1080-DkH3buB_.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Planets-p-1080-DkH3buB_.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Planets-p-1600-By46APcE.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Planets-p-1600-By46APcE.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Purpose-DL7TLVcS.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Purpose-DL7TLVcS.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Purpose-p-1080-DL7Qn1TL.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Purpose-p-1080-DL7Qn1TL.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/BG_Purpose-p-1600-CyWyBtUU.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\BG_Purpose-p-1600-CyWyBtUU.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/galaxy-card_blue-7vjUHFK7.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\galaxy-card_blue-7vjUHFK7.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/galaxy-card_blue-p-1080-DB1O-P0G.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\galaxy-card_blue-p-1080-DB1O-P0G.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/galaxy-card_blue-p-500-BzTCqyLB.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\galaxy-card_blue-p-500-BzTCqyLB.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/galaxy-card_blue-p-800-D5l2LZdz.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\galaxy-card_blue-p-800-D5l2LZdz.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/galaxy-card_red-CFAGM5j4.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\galaxy-card_red-CFAGM5j4.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/Noise-Texture_1-C9_NiLhO.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\Noise-Texture_1-C9_NiLhO.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/placeholder-img-Dz65MP2S.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\placeholder-img-Dz65MP2S.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/placeholder-img-p-500-CjmPJeK9.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\placeholder-img-p-500-CjmPJeK9.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/planet-modal-bg-blue-compressed-DsBWTCHm.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\planet-modal-bg-blue-compressed-DsBWTCHm.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/planet-modal-bg-green-CVwO0k7t.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\planet-modal-bg-green-CVwO0k7t.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/planet-modal-bg-red-compressed-B2YGsJ-Z.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\planet-modal-bg-red-compressed-B2YGsJ-Z.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/planet-small-CQ2GiSYD.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\planet-small-CQ2GiSYD.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/planet-small_green-ETmfyJEl.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\planet-small_green-ETmfyJEl.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/planet-small_red-fih1xtvB.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\planet-small_red-fih1xtvB.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/planet-small_yellow-BF0_LN-5.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\planet-small_yellow-BF0_LN-5.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/Proxima_ecosystem-8fRAcqr_.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\Proxima_ecosystem-8fRAcqr_.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/Proxima_harvesters-aIbW107v.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\Proxima_harvesters-aIbW107v.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/Proxima_twilight-band-DJ9uwsob.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\Proxima_twilight-band-DJ9uwsob.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/Tee-garden-b_Ceremony-BktErIJ2.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\Tee-garden-b_Ceremony-BktErIJ2.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/Tee-garden-b_Innovations-BjIpqcj8.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\Tee-garden-b_Innovations-BjIpqcj8.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/Tee-garden-b_sanctuaries-CtmNCyb0.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\Tee-garden-b_sanctuaries-CtmNCyb0.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/assets/webp/yellow-planet_preview-CcbXtNaH.webp
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\assets\webp\yellow-planet_preview-CcbXtNaH.webp
+Content Type: image/webp
+
+Uri: https://www.theastralfrontier.com/favicon.png
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\favicon.png
+Content Type: image/png
+
+Uri: https://www.theastralfrontier.com/fonts/KHInterference-Regular.woff2
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\fonts\KHInterference-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://www.theastralfrontier.com/fonts/PPRightGroteskText-Regular.woff2
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\fonts\PPRightGroteskText-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://www.theastralfrontier.com/webclip.png
+File Name: D:\Job Apply\CloneSite\247artists\www.theastralfrontier.com\webclip.png
+Content Type: image/png
+
