@@ -1,0 +1,69 @@
+[data-result-animation=fade],[data-result-animation=random],[data-result-animation=svg],[data-result-animation=wipe],[data-result-animation] {
+    opacity: 0;
+    visibility: hidden
+}
+
+[data-result-animation=image] {
+    opacity: 0;
+    visibility: hidden;
+    transform: scale(1.5);
+    filter: brightness(120%)
+}
+
+.char,.text-style-enter .char,.text-style-loader .char,[data-result-animation=random] .char,[data-result-animation=wipe] .char,[data-text-animation=wipe] .char {
+    opacity: 0
+}
+
+[data-result-animation].is-visible {
+    visibility: visible
+}
+
+.text-style-terminal,[data-text-animation=wipe] {
+    font-kerning: none;
+    position: relative
+}
+
+.text-style-subheading .word,.text-style-terminal .word {
+    display: inline-block;
+    white-space: nowrap
+}
+
+.text-style-subheading .char,.text-style-terminal .char,[data-text-animation=wipe] .char {
+    display: inline-block;
+    position: relative
+}
+
+.results_hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #0006;
+    z-index: 1
+}
+
+[data-animation=fade] {
+    opacity: 0
+}
+
+.terminal-container.is-results {
+    grid-column-gap: .8rem;
+    grid-row-gap: .8rem;
+    position: relative;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 100%
+}
+
+.button.is-text {
+    opacity: 1!important
+}
+
+.line-inner {
+    text-align: center
+}
+
+[data-text-trigger=load] {
+    visibility: hidden
+}
