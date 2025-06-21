@@ -816,7 +816,7 @@ const i = new (class {
         e > o && ((o = e), (n = t));
       });
       const a = this.resultMapping[n];
-      localStorage.setItem("quizRedirectPath", a),
+      localStorage.setItem("quizRedirectPath", "/astral-explorer.html"),
         localStorage.setItem(
           "quizUserAnswers",
           JSON.stringify(this.userAnswers)
