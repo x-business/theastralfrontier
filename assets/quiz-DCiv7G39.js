@@ -874,7 +874,7 @@ const i = new (class {
                 ease: "power2.inOut",
                 onComplete: () => {
                   localStorage.setItem("needsFadeIn", "true"),
-                    (window.location.href = a);
+                    (window.location.href = "/astral-explorer.html");
                 },
               });
           }),
